@@ -10,5 +10,7 @@ __If the request does not fire:__
 ![alt text](https://github.com/sylvain75/weather_map_native/blob/master/assets/Screen%20Shot%202016-08-06%20at%205.10.44%20PM.png "Xcode setup")
 
 ## Getting started
-```npm install```
-```npm start```
+```
+npm install
+npm start
+```
