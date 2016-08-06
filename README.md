@@ -6,7 +6,7 @@ When pin position changes, the weather corresponding to the position is fetched 
 
 If the request does not fire:
 - in Xcode make sure that ```Info.plist``` looks like that:
-(https://github.com/sylvain75/weather_map_native/blob/master/assets/Screen%20Shot%202016-08-06%20at%205.10.44%20PM.png "Xcode setup")
+![alt text](https://github.com/sylvain75/weather_map_native/blob/master/assets/Screen%20Shot%202016-08-06%20at%205.10.44%20PM.png "Xcode setup")
 
 ## Getting started
 ```npm install
